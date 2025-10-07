@@ -8,6 +8,7 @@ h1, h2{
 }
 header{ background-color: #263248;
         border-radius: 8px;
+        display:flex;
     }
  header h1 a{
     color: #fff;
